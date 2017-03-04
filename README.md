@@ -19,11 +19,14 @@
 | `log`  |   |
 | `add`  |   |
 | `rm`  |   |
+| `mv`  |   |
+| `reset`  |   |
 | `commit`  |   |
 | `log`  |   |
 | `branch`  |   |
 | `checkout`  |   |
 | `diff`  |   |
+| `merge`  |   |
 
 ## Day 2
 
@@ -39,7 +42,9 @@
 | Setup account and repository on Github  |   |
 | The cycles of Github collaboration  | Issues, pull request, etc  |
 | Authentication over git  |   |
+| `clone`  |   |
 | `remote`  |   |
+| `fetch`  |   |
 | `pull`  |   |
 | `push`  |   |
 | Conflict management  |   |
